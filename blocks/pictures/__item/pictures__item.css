@@ -3,5 +3,5 @@
     /*top: 50px;
     left: 50px;*/
     width: 600px;
-    transition: opacity 15s ease 2s, width 15s ease, top 15s ease, left 15s ease;
+    transition: opacity 5s ease 2s, width 5s ease, transform 5s ease;
 }
